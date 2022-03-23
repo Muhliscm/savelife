@@ -1,0 +1,26 @@
+
+.head-div{
+    background-color:#f5f5f5;
+}
+
+.form-div{
+    border-color: #ebdeded5;
+    font-weight: 200;
+    border: 1px groove;
+    border-radius: 2%;
+}
+
+.h3-new{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: serif;
+
+}
+
+.label-new{
+    font-weight: 100;
+}
